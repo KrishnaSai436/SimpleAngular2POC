@@ -3,3 +3,5 @@
 ################################################################################
 
 /packages
+/SimpleAngular2POC/bin
+/SimpleAngular2POC/obj/Debug
